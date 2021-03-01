@@ -19,7 +19,6 @@ Main Question: What Key Performance Indicators(KPI) of a driver should an enterp
 - [Project-Description](#project-description)
 - [Contributors](#contributors)
 - [Demo-Preview](#demo-preview)
-- [Footer](#footer)
 
 # Project-Description
 This is student project in collaboration with Tourmaline Labs, an AI mobility company that enables large enterprises to drive better business outcomes and more efficiently manage their transportation workforce. They collect data ranging from location data, trip data, driving behavior data, and other related data and we have been given a sample of their dataset to work on this project and assist them in bringing better business insights.
@@ -45,9 +44,11 @@ This is student project in collaboration with Tourmaline Labs, an AI mobility co
 | Samuel Huang                    | https://github.com/[github handle] | https://www.linkedin.com/                   |
 
 # Demo-Preview
+### Trips Events Map Dashboard
+![San Diego Telematics](https://user-images.githubusercontent.com/43867119/109551170-11096700-7a85-11eb-84cd-1e7fef21b340.png)
 
-# Footer
-
+### Drivers' KPIs and Benchmarking Dashboard
+![KPIS](https://user-images.githubusercontent.com/43867119/109551329-47df7d00-7a85-11eb-996b-ed8a6a9a8666.png)
 
 [(Back to top)](#table-of-contents)
 =======
