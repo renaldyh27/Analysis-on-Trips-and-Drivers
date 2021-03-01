@@ -1,1 +1,53 @@
-# Analysis-on-Trips-and-Drivers
+# Analysis on Trips and Drivers Performance
+
+This project analyzes trips location data and drivers' behavioral and performance data in order to answer the following questions:
+
+Main Question: What Key Performance Indicators(KPI) of a driver should an enterprise pay attention to in order to achieve better safety and reduce costs?	
+
+• What are the variables we should look out for in the data?
+
+• How can we create a better benchmarking system (comparing a driver to a standard)?     
+
+• How do we define this standard? 
+
+• Which drivers are exceeding the standards and expectations? 
+
+• Which drivers are below the minimum standards?		
+
+# Table of contents
+
+- [Project-Description](#project-description)
+- [Contributors](#contributors)
+- [Demo-Preview](#demo-preview)
+- [Footer](#footer)
+
+# Project-Description
+This is student project in collaboration with Tourmaline Labs, an AI mobility company that enables large enterprises to drive better business outcomes and more efficiently manage their transportation workforce. They collect data ranging from location data, trip data, driving behavior data, and other related data and we have been given a sample of their dataset to work on this project and assist them in bringing better business insights.
+
+### Methods
+- Statistical Methods (ANOVA, Mutiple paired-comparison tests)
+- Data Analysis 
+- Data Visualization
+
+### Languages and Tools
+- Python (Pandas, Plotly)
+- SQL
+- Power BI
+- Snowflake
+- Jupyter Notebook
+
+# Contributors
+
+| Name                            | Github                             | LinkedIn                                    |
+| ------------------------------- | ---------------------------------- | ------------------------------------------- |
+| **Project lead:** Renaldy Herlim | https://github.com/renaldyh27      | https://www.linkedin.com/in/renaldy-herlim/ |
+| Yishan Li                       | https://github.com/[github handle] | https://www.linkedin.com/                   |
+| Samuel Huang                    | https://github.com/[github handle] | https://www.linkedin.com/                   |
+
+# Demo-Preview
+
+# Footer
+
+
+[(Back to top)](#table-of-contents)
+=======
