@@ -2,17 +2,7 @@
 
 This project analyzes trips location data and drivers' behavioral and performance data in order to answer the following questions:
 
-Main Question: What Key Performance Indicators(KPI) of a driver should an enterprise pay attention to in order to achieve better safety and reduce costs?	
-
-• What are the variables we should look out for in the data?
-
-• How can we create a better benchmarking system (comparing a driver to a standard)?     
-
-• How do we define this standard? 
-
-• Which drivers are exceeding the standards and expectations? 
-
-• Which drivers are below the minimum standards?		
+<img width="747" alt="image" src="https://github.com/renaldyh27/Analysis-on-Trips-and-Drivers/assets/43867119/7d56d1dc-c0ff-4fed-86db-8654b1c0766c">
 
 # Table of contents
 
@@ -22,7 +12,9 @@ Main Question: What Key Performance Indicators(KPI) of a driver should an enterp
 # Project-Description
 This is student project in collaboration with Tourmaline Labs, an AI mobility company that enables large enterprises to drive better business outcomes and more efficiently manage their transportation workforce. They collect data ranging from location data, trip data, driving behavior data, and other related data and we have been given a sample of their dataset to work on this project and assist them in bringing better business insights.
 
-<img width="747" alt="image" src="https://github.com/renaldyh27/Analysis-on-Trips-and-Drivers/assets/43867119/7d56d1dc-c0ff-4fed-86db-8654b1c0766c">
+## Data Overview
+
+<img width="761" alt="image" src="https://github.com/renaldyh27/Analysis-on-Trips-and-Drivers/assets/43867119/5637a3a8-ae84-4b76-8ae7-34b41b23b0a1">
 
 
 ### Methods
@@ -38,6 +30,19 @@ This is student project in collaboration with Tourmaline Labs, an AI mobility co
 # Project Demo
 
 ### Exploratory Data Analysis in PowerBI
+
+Trips Dataset EDA
+<img width="780" alt="image" src="https://github.com/renaldyh27/Analysis-on-Trips-and-Drivers/assets/43867119/439c07d0-ef2e-453e-a497-7fed48dfaf92">
+
+Telematics/Events Dataset EDA
+<img width="774" alt="image" src="https://github.com/renaldyh27/Analysis-on-Trips-and-Drivers/assets/43867119/ddb5af03-5675-443e-8173-b1c54f060c4b">
+
+Drivers Statistics Dashboard
+<img width="770" alt="image" src="https://github.com/renaldyh27/Analysis-on-Trips-and-Drivers/assets/43867119/d3c37dbe-74de-49d9-bbdd-d6f0e6a11ae7">
+
+Statistical ANOVA Tests on Driver Scores and Trips Behavior
+<img width="743" alt="image" src="https://github.com/renaldyh27/Analysis-on-Trips-and-Drivers/assets/43867119/454228c5-010f-4a11-9651-ee68b76710e5">
+<img width="752" alt="image" src="https://github.com/renaldyh27/Analysis-on-Trips-and-Drivers/assets/43867119/412c1aab-c7b8-47e2-9f15-1ce2cb21edba">
 
 ### Trips Events Map Dashboard
 ![San Diego Telematics](https://user-images.githubusercontent.com/43867119/109551170-11096700-7a85-11eb-84cd-1e7fef21b340.png)
