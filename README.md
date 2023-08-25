@@ -31,19 +31,19 @@ This is student project in collaboration with Tourmaline Labs, an AI mobility co
 
 ### Exploratory Data Analysis in PowerBI
 
-#### Trips Dataset EDA
+### Trips Dataset EDA <br>
 
 <img width="780" alt="image" src="https://github.com/renaldyh27/Analysis-on-Trips-and-Drivers/assets/43867119/439c07d0-ef2e-453e-a497-7fed48dfaf92">
 
-#### Telematics/Events Dataset EDA
+### Telematics/Events Dataset EDA <br>
 
 <img width="774" alt="image" src="https://github.com/renaldyh27/Analysis-on-Trips-and-Drivers/assets/43867119/ddb5af03-5675-443e-8173-b1c54f060c4b">
 
-#### Drivers Statistics Dashboard
+### Drivers Statistics Dashboard <br>
 
 <img width="770" alt="image" src="https://github.com/renaldyh27/Analysis-on-Trips-and-Drivers/assets/43867119/d3c37dbe-74de-49d9-bbdd-d6f0e6a11ae7">
 
-#### Statistical ANOVA Tests on Driver Scores and Trips Behavior
+### Statistical ANOVA Tests on Driver Scores and Trips Behavior <br>
 
 <img width="743" alt="image" src="https://github.com/renaldyh27/Analysis-on-Trips-and-Drivers/assets/43867119/454228c5-010f-4a11-9651-ee68b76710e5">
 <img width="752" alt="image" src="https://github.com/renaldyh27/Analysis-on-Trips-and-Drivers/assets/43867119/412c1aab-c7b8-47e2-9f15-1ce2cb21edba">
