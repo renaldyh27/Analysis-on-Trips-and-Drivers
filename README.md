@@ -4,10 +4,6 @@ This project analyzes trips location data and drivers' behavioral and performanc
 
 <img width="747" alt="image" src="https://github.com/renaldyh27/Analysis-on-Trips-and-Drivers/assets/43867119/7d56d1dc-c0ff-4fed-86db-8654b1c0766c">
 
-# Table of contents
-
-- [Project-Description](#project-description)
-- [Demo-Preview](#project-demo)
 
 # Project-Description
 This is student project in collaboration with Tourmaline Labs, an AI mobility company that enables large enterprises to drive better business outcomes and more efficiently manage their transportation workforce. They collect data ranging from location data, trip data, driving behavior data, and other related data and we have been given a sample of their dataset to work on this project and assist them in bringing better business insights.
