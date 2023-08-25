@@ -6,7 +6,7 @@ This project analyzes trips location data and drivers' behavioral and performanc
 
 
 # Project-Description
-This is a student project in collaboration with Tourmaline Labs, an AI mobility company that enables large enterprises to drive better business outcomes and more efficiently manage their transportation workforce. They collect data ranging from location data, trip data, driving behavior data, and other related data and we have been given a sample of their dataset to work on this project and assist them in bringing better business insights. **There are only screenshots to this project's dashboards on PowerBI given as a demo below, I am not able to share the data and the code that goes into processing the data in Python and SQL to keep the privacy of the company's data.**
+This is a student project in collaboration with Tourmaline Labs, an AI mobility company that enables large enterprises to drive better business outcomes and more efficiently manage their transportation workforce. They collect data ranging from location data, trip data, driving behavior data, and other related data and we have been given a sample of their dataset to work on this project and assist them in bringing better business insights. **There are only screenshots to this project's dashboards on PowerBI given as a demo below, I am not able to share the data and the code that goes into processing the data in Python and SQL to keep the privacy of the company's data.** The PowerBI workbook file can be accessed here to interact with the dashboard's slicers and interactive charts (https://drive.google.com/file/d/18ejgrrql0CFWOk0yN5TMidHhvNMLaC52/view?usp=sharing)
 
 ## Data Overview
 
