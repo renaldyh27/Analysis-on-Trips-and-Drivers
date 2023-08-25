@@ -35,13 +35,6 @@ This is student project in collaboration with Tourmaline Labs, an AI mobility co
 - Snowflake
 - Jupyter Notebook
 
-# Contributors
-
-| Name                            | Github                             | LinkedIn                                    |
-| ------------------------------- | ---------------------------------- | ------------------------------------------- |
-| **Project lead:** Renaldy Herlim | https://github.com/renaldyh27      | https://www.linkedin.com/in/renaldy-herlim/ |
-| Yishan Li                       | https://github.com/[github handle] | https://www.linkedin.com/                   |
-| Samuel Huang                    | https://github.com/[github handle] | https://www.linkedin.com/                   |
 
 # Demo-Preview
 ### Trips Events Map Dashboard
